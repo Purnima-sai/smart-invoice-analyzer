@@ -30,5 +30,5 @@ A smart AI-powered tool that extracts, analyzes, and summarizes invoice details 
 
 ## 📸 Example Output
 
-**Uploaded Invoice:** `amazon_invoice.jpg`
+**Uploaded Invoice:** `invoice-analyzer.jpg`
 
